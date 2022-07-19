@@ -351,21 +351,21 @@ export default {
           title: "java开发个人博客",
           text: `记录、分享`,
           subtext: "基于 Spring Boot 的 web 项目",
-          img: "https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/pexels-negative-space-34153.jpg",
 
         },
         {
           title: "Ionic 简单ToDO List",
           text: "移动端开发 Ionic 开发待办事项",
           subtext: "ionic 是一个强大的 HTML5 应用程序开发框架",
-          img: "https://cdn.jsdelivr.net/gh/qiananran/myImage/onlinestudy/pexels-photo-1586663.jpeg",
+          img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/pexels-rodrigo-santos-3888151.jpg",
 
         },
         {
           title: "视频网站首页",
           text: "用于展示产品详情",
           subtext: "vue 项目.",
-          img: "https://cdn.jsdelivr.net/gh/qiananran/myImage/onlinestudy/pexels-photo-957144.jpeg",
+          img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/pexels-mohamed-khaled-397998.jpg",
 
         },
       ],
@@ -432,7 +432,7 @@ export default {
 }
 
 .my_card {
-  background-image: url("https://cdn.jsdelivr.net/gh/qiananran/myImage/onlinestudy/微信图片_20220228125532.jpg");
+  background-image: url("https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/fwenqian.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -444,7 +444,7 @@ export default {
 
 @media screen and (max-width: 600px) {
   .my_card {
-    background-image: url("https://cdn.jsdelivr.net/gh/qiananran/myImage/onlinestudy/微信图片_20220228125532.jpg");
+    background-image: url("https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/fwenqian.png");
   }
 
   .info2 {
