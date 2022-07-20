@@ -358,11 +358,11 @@ export default {
           title: "Ionic 简单ToDO List",
           text: "移动端开发 Ionic 开发待办事项",
           subtext: "ionic 是一个强大的 HTML5 应用程序开发框架",
-          img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/pexels-rodrigo-santos-3888151.jpg",
+          img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/moon.png",
 
         },
         {
-          title: "视频网站首页",
+          title: "视频网站首页设计",
           text: "用于展示产品详情",
           subtext: "vue 项目.",
           img: "https://edu-myservice.oss-cn-hangzhou.aliyuncs.com/fwenqian/pexels-mohamed-khaled-397998.jpg",

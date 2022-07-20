@@ -98,7 +98,7 @@
           </ul>
           <p>&nbsp;</p>
           <hr />
-          <h1 id="模块划分"><span>模块划分</span></h1>
+         <!-- <h1 id="模块划分"><span>模块划分</span></h1>
           <div style="text-align: center">
             <img
               class="my_image"
@@ -106,8 +106,8 @@
               referrerpolicy="no-referrer"
               alt="image"
             />
-          </div>
-          <hr />
+          </div>-->
+          
           <h1 id="技术栈"><span>技术栈</span></h1>
           <ul>
             <li><span>java , jdk1.8</span></li>
@@ -229,8 +229,7 @@
               ><span>实现下拉刷新。</span>
             </li>
           </ul>
-          <hr />
-          <h1 id="模块划分"><span>模块划分</span></h1>
+          <!--<h1 id="模块划分"><span>模块划分</span></h1>
           <p>
             <img
               class="my_image"
@@ -238,7 +237,7 @@
               referrerpolicy="no-referrer"
               alt="image"
             />
-          </p>
+          </p>-->
           <hr />
           <h1 id="技术栈"><span>技术栈</span></h1>
           <ul>
@@ -248,7 +247,7 @@
             <li><span>Typescript</span></li>
           </ul>
           <hr />
-          <h1 id="预览"><span>预览</span></h1>
+         <!-- <h1 id="预览"><span>预览</span></h1>
           <p><span>数据库表</span></p>
           <p>
             <img
@@ -264,7 +263,7 @@
               src="https://cdn.jsdelivr.net/gh/qiananran/myImage/onlinestudy/T1NTC06DK7TUZD.png"
               referrerpolicy="no-referrer"
             />
-          </p>
+          </p>-->
           <div style="text-align: center">
           <v-btn
             min-width="200"
@@ -355,11 +354,11 @@
             style="border: 1px solid rgba(0, 0, 0, 0.1)"
             width="800"
             height="450"
-            src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIuaIuCt8zCjF8PWsFhS0nO%2FFlowbase-%257C-Course-Landing-(Community)%3Fnode-id%3D0%253A1"
+            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdWAvX5o4QCZXvUmnCIRm5v%2FCourse-UI-(Community)%3Fnode-id%3D0%253A1"
             allowfullscreen=""
           ></iframe>
           <p>&nbsp;</p>
-          <p><span>效果：</span></p>
+          <!--<p><span>效果：</span></p>
           <iframe
           class="my_video"
             src="https://player.bilibili.com/player.html?aid=296892268&amp;bvid=BV1FF411b7tf&amp;cid=700129259&amp;page=1"
@@ -369,7 +368,7 @@
             framespacing="0"
             allowfullscreen="true"
           >
-          </iframe>
+          </iframe>-->
           <p>&nbsp;</p>
           <div style="text-align: center">
           <v-btn
